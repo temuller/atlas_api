@@ -2,5 +2,5 @@ numpy
 pandas
 astropy
 tendrils
-getpass
+getpass4
 jupyterlab
